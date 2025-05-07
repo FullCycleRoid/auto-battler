@@ -1,0 +1,34 @@
+
+                                    SSR Front
+                                    * Animations
+                                    * fight drawings
+                                    * AUTH
+                                    * Profile
+                                    * Search enemy
+
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+
+                                    BE
+                                    * Fight calculation
+                                    * AUTH 2.0
+                                    * Event system                -----------------> Postgres
+                                    * Search enemy                -----------------> Redis
+                                    * Store data
+                                    * Weapon system
+                                    * Combat system
+                                    * Tournament system
+                                    * Trade system
+
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+
+                                    Payment Integration
+
+
